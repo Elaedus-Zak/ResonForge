@@ -1,0 +1,24 @@
+.deletecaller{
+    background-color: transparent;
+    border:none;
+    
+}
+.deleterejecter{
+    background-color: transparent;
+    border:none;
+    
+}
+.deleteresolver{
+    background-color: transparent;
+    border:none;
+    
+    margin-left: 8px;
+}
+.deletehandler{
+    padding-top: 8px;
+    
+}
+.deletehandler.inS{
+    padding-top: 0;
+    margin-left: 10px;
+}

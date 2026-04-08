@@ -1,0 +1,28 @@
+:root {
+  --bg-page:      #020812;
+  --bg-hero:      #050d1f;
+  --bg-mainview:   #0a1428;
+  --bg-card:      #0f1e38;
+  --bg-player:    #07102b;
+
+
+  --brand:        #053da5;
+  --brand-hover:  #0a52d4;
+  --brand-glow:   #1a6bff;
+  --brand-tint:   rgba(5, 61, 165, 0.2);
+
+  --text-primary: #ffffff;
+  --text-soft:    #e8f0ff;
+  --text-muted:   #8fa8d0;
+  --text-subtle:  #5a7aaa;
+  --text-link:    #6ea4ff;
+
+  --border:       #1a2d52;
+  --hover:        rgba(255, 255, 255, 0.06);
+
+  --success:      #4ade80;
+  --gold:         #fbbf24;
+
+
+
+}

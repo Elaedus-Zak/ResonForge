@@ -1,0 +1,9 @@
+#root {
+  display: flex;
+ 
+  
+}
+.text{
+  justify-self: flex-start;
+  align-items: flex-start;
+}

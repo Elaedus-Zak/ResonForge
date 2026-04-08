@@ -1,0 +1,44 @@
+@font-face {
+  font-family: "Expand";
+  src: url(../assets/fonts/Expand.ttf);
+}
+.titlew{
+    font-family: "Expand";
+    font-size: 500%;
+}
+.getstarted{
+    padding: 15px 40px;
+    border-radius: 7px;
+    border: none;
+    background-color: var(--brand-hover) ;
+    scale: 100% ;
+    
+    margin: 0;
+    filter: brightness(100%);
+    transition: background-color,filter, scale  0.3s ease;
+}
+.getstarted:hover{
+    scale : 102%
+}
+.getstarted:active{
+    filter: brightness(80%);
+}
+.welcome{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    background-image: url("../assets/background.jpg");
+}
+.mainw{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    flex-direction: column;
+    gap: 3vh;
+    
+    
+}
+
