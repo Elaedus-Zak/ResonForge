@@ -14,8 +14,8 @@
     "crypto-browserify": "^3.12.1",
     "framer-motion": "^12.36.0",
     "lucide-react": "^0.563.0",
-    "react": "^0.0.0-experimental-3e00319b-20260203",
-    "react-dom": "^0.0.0-experimental-3e00319b-20260203",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-router-dom": "^7.13.1",
     "stream": "^0.0.3"
   },
