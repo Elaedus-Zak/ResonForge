@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const api = axios.create({
   
-  baseURL: 'http://192.168.100.39:8080', 
+  baseURL: 'https://resonforge-api-production.up.railway.app:8080', 
 
   
 });
